@@ -17,4 +17,4 @@
   <img alt = "git" src = "https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+uses: Platane/snk/svg-only@v2
