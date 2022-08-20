@@ -17,4 +17,4 @@
   <img alt = "git" src = "https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-![Snake animation](https://github.com/theVieira/theVieira/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
