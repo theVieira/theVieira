@@ -1,20 +1,44 @@
-## #Olá! Eu sou o Gabriel Vieira 🖐️
+# Hi 👋🏻, I'm Gabriel Guimarães
+## Desenvolvedor Web FullStack 👨🏻‍💻
 
-![Vieira Github stats](https://github-readme-stats.vercel.app/api?username=theVieira&show_icons=true&theme=dracula)
+### Sobre mim 🧔🏻‍♂️
 
-### Tecnologias que estou estudando 📚
+- Sou estudante de **Sistema de Informação**, atualmente no 3° pedíodo
+- Tenho mais de um ano de experiência como **Desenvolvedor Web FullStack**
+- Atualmente trabalhando como **Desenvolvedor Freelancer**
+
+### Veja o meu portifólio: [GabrielGuimarães 👀](https://gabrielguimaraes.tech/)
+
+<br/>
+
+### Tecnologias que eu trabalho e utilizo no dia dia 📚
 
 <div style = "display: inline_block"><br/>
-  <img alt = "html5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt = "ccs3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt = "javascript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt = "sass" src = "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img alt = "typescript" src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
-  <img alt = "vuejs" src = "https://img.shields.io/badge/Vue.js-4EA94B?style=for-the-badge&logo=vuejs&logoColor=white" />
-  <img alt = "mongodb" src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt = "nodejs" src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt = "postgresql" src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" style = "width: 32px; height: 32px"/> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" style = "width: 32px; height: 32px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" style = "width: 32px; height: 32px"/> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" style = "width: 32px; height: 32px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" style = "width: 32px; height: 32px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style = "width: 32px; height: 32px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" style = "width: 32px; height: 32px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style = "width: 32px; height: 32px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style = "width: 32px; height: 32px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" style = "width: 32px; height: 32px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style = "width: 32px; height: 32px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" style = "width: 32px; height: 32px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" style = "width: 32px; height: 32px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" style = "width: 32px; height: 32px" />      
    
 </div>
+
+### Contato ☎
+  
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style = "width: 32px; height: 32px; display: inline"/>](https://www.linkedin.com/in/gabrielvieira02/)
+[<img src="https://github.com/theVieira/theVieira/assets/81887814/c6ef8873-e5f8-4eff-be5e-219e0a7ed6de" style = "width: 32px; display: inline">](gabrielvieiraguimaraes4@gmail.com)
+
+## Github Stats
+
+![Vieira Github stats](https://github-readme-stats.vercel.app/api?username=theVieira&show_icons=true&theme=dracula)
+          
+
