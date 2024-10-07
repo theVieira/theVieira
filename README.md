@@ -3,7 +3,7 @@
 
 ### Sobre mim 🧔🏻‍♂️
 
-- Sou estudante de **Sistema de Informação**, atualmente no 3° pedíodo
+- Sou estudante de **Sistema de Informação**, atualmente no 5° pedíodo
 - Tenho mais de um ano de experiência como **Desenvolvedor Web FullStack**
 - Atualmente trabalhando como **Desenvolvedor Freelancer**
 
